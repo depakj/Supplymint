@@ -1,0 +1,473 @@
+*{
+    padding: 0;
+    margin: 0;
+    background-color: whitesmoke;
+}
+
+.supplymint{
+    position: absolute;
+    top: 15px;
+    left: 5%;
+}
+
+ .form-control {
+    background-color: rgb(255, 255, 255);
+
+    position: absolute;
+    left: 15%;
+    top: 10px;
+    width: 276px;
+} 
+.to-do-list{
+    position: absolute;
+    left: 75%;
+    width: 30px;
+
+}
+.bell{
+    position: absolute;
+    left: 79%;
+    width: 30px;
+}
+
+.drop{
+    position: absolute;
+    background-color: antiquewhite;
+    width: 50px;
+
+}
+.sidenav{
+    width: 50px;
+    background-color: white;
+    height: 100vh;
+}
+
+.homeside{
+    position: relative;
+    width: 30px;
+    left: 10px;
+    top: 20px;
+}
+
+.dasboardside{
+    position: relative;
+    width: 30px;
+    left: 10px;
+    top: 89px;
+}
+    
+
+
+.productside{
+    position: relative;
+    width: 30px;
+    left: 10px;
+    top: 158px;
+}
+
+
+.customrside{
+    position: relative;
+    width: 30px;
+    left: 10px;
+    top: 234px;
+}
+
+
+.template_1{
+    background-color: #fff;
+    display:flexbox;
+    position:absolute;
+    width: 600px;
+    height: 300px;
+    left: 60px;
+    top: 150px;
+    border-radius: 5px;
+    border: 1px solid grey;
+    
+}
+
+.piechart{
+    width: 300px;
+    position: absolute;
+    top: 22%;
+    left: 3%;
+    border-radius: 10px;
+    border: 2px solid grey;
+   }
+
+.tablee{
+    position: absolute;
+    left: 55%;
+    top: 22%;
+    width: 255px;
+    border: 2px solid gray;
+    height: 226px;
+    
+   
+}
+
+table, th, tr{
+    background-color: white;
+}
+
+.tablehead{
+    color: grey;
+}
+.second{
+    font-weight: bolder;
+} 
+
+.setting
+{
+    width: 25px;
+    position: absolute;
+    left: 85%;
+    top: 12%;
+}
+
+.sec_nav{
+    position: absolute;
+    width: 96%;
+    left: 3.9%;
+    background-color: rgb(245, 241, 241);
+    height: 35px;
+}
+
+
+
+.L-arrow{
+    position: absolute;
+    left: 3%;
+    top: 16%;
+    width: 20px;
+}
+
+.home{
+    position: absolute;
+    left: 5%;
+    top: 15%;
+}
+
+.R-arrow{
+    position: absolute;
+    left: 9%;
+    top: 33%;
+    width: 10px;
+}
+
+.Analytics{
+    position: absolute;
+    left: 10%;
+    top: 15%;
+}
+
+.help{
+    position: absolute;
+    left: 90%;
+    top: 12%;
+    width: 70px;
+    background-color: #fff;
+    border-radius: 15px;
+    border: 1px solid grey;
+}
+
+.ques{
+    position: absolute;
+    width: 20px;
+    left: 55%;
+    top: 7%;
+    background-color: #fff;
+}
+
+
+.cantainer
+{
+    position: relative;
+    width: 20%;
+    height: 35px;
+    background-color: rgb(255, 255, 255);
+    left: 5%;
+    top: 19%;
+    border-radius: 5px;
+    border: 2.5px solid rgb(245, 241, 241);
+}
+
+.cantainer2{
+    position :relative;
+    width: 10%;
+    height: 30px;
+    background-color: rgb(255, 255, 255);
+    left: 28%;
+    top: -44%;
+    border-radius: 5px;
+    border: 2.5px solid rgb(245, 241, 241);
+}
+
+.cantainer3{
+    
+        position: relative;
+        width: 10%;
+        height: 30px;
+        background-color: rgb(255, 255, 255);
+        left: 39%;
+        top: -104%;
+        border-radius: 5px;
+        border: 2.5px solid rgb(245, 241, 241);
+ }
+
+ .cantainer4{
+    position :relative;
+    width: 10%;
+    height: 30px;
+    background-color: rgb(255, 255, 255);
+    left: 50%;
+    top: -164%;
+    border-radius: 5px;
+    border: 2.5px solid rgb(245, 241, 241);
+ }
+
+ .cantainer5{
+    position: relative;
+    width: 10%;
+    height: 30px;
+    background-color: rgb(255, 255, 255);
+    left: 61%;
+    top: -224%;
+    border-radius: 5px;
+    border: 2.5px solid rgb(245, 241, 241);
+} 
+
+.cantainer6{
+    position: relative;
+    width: 10%;
+    height: 30px;
+    background-color: rgb(255, 255, 255);
+    left: 89%;
+    top: -284%;
+    border-radius: 5px;
+    border: 2.5px solid rgb(245, 241, 241);
+} 
+
+/* position :relative;
+width: 10%;
+height: 30px;
+background-color: aliceblue;
+left: 50%;
+top: -164%;
+border-radius: 5px;
+border: 1px solid grey; */
+/* rgb(245, 241, 241); */
+
+.template_2{
+    background-color: #fff;
+
+    position:absolute;
+    width: 650px;
+    height: 300px;
+    left: 680px;
+    top: 150px;
+    border-radius: 5px;
+    border: 1px solid grey;
+}
+
+
+.calender{
+    width: 20px;
+    margin-left: 2%;
+}
+/* 
+.bargraph{
+    position: absolute;
+    left: 4%;
+    top: 40%;
+    width: 600px;
+} */
+
+.actual{
+    width: 100px;
+    position: absolute;
+    top: 20%;
+    left: 8%;
+    background: white;
+    font-size: inherit;
+    font-weight: 600;
+    color: grey;
+}
+
+.wave{
+        position: absolute;
+        width: 20px;
+        top: 21%;
+        left: 18%;
+}
+
+.Expected{
+    width: 100px;
+    position: absolute;
+    top: 20%;
+    left: 22%;
+    background: white;
+    font-size: inherit;
+    font-weight: 600;
+    color: grey;
+}
+
+
+
+.switch {
+    position: relative;
+    display: inline-block;
+    width: 60px;
+    height: 34px;
+  }
+  
+  /* Hide default HTML checkbox */
+  .switch input {
+    opacity: 0;
+    width: 0;
+    height: 0;
+  }
+  
+  /* The slider */
+  .slider {
+    position: absolute;
+    cursor: pointer;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: #ccc;
+    -webkit-transition: .4s;
+    transition: .4s;
+   
+  }
+  
+  .slider:before {
+    position: absolute;
+    content: "";
+    height: 26px;
+    width: 26px;
+    left: 4px;
+    bottom: 4px;
+    background-color: white;
+    -webkit-transition: .4s;
+    transition: .4s;
+    border-radius: 5px;
+  }
+  
+  input:checked + .slider {
+    background-color: #2196F3;
+  }
+  
+  input:focus + .slider {
+    box-shadow: 0 0 1px #2196F3;
+  }
+  
+  input:checked + .slider:before {
+    -webkit-transform: translateX(26px);
+    -ms-transform: translateX(26px);
+    transform: translateX(26px);
+  }
+  
+  /* Rounded sliders */
+  .slider.round {
+    border-radius: 50px;
+    width: 60%;
+    height: 62%;
+}
+  
+  
+  .slider.round:before {
+    border-radius: 25px;
+    width: 37%;
+    height: 65%;
+  }
+
+  .Compact_Graph{
+    width: 132px;
+    position: absolute;
+    top: 4.5%;
+    left: 50%;
+    background: white;
+    font-size: inherit;
+    font-weight: 600;
+    color: grey;
+}
+
+.template_3{
+    background-color: #fff;
+
+    position:absolute;
+    width: 1266px;
+    height: 300px;
+    left: 61px;
+    top: 460px;
+    border-radius: 5px;
+    border: 1px solid grey;
+}
+
+
+.actual2 {
+    width: 100px;
+    position: absolute;
+    top: 20%;
+    left: 6.4%;
+    background: white;
+    font-size: inherit;
+    font-weight: 600;
+    color: grey;
+}
+
+.wave2 {
+    position: absolute;
+    width: 20px;
+    top: 21%;
+    left: 11%;
+}
+
+.Expected2 {
+    width: 100px;
+    position: absolute;
+    top: 20%;
+    left: 13%;
+    background: white;
+    font-size: inherit;
+    font-weight: 600;
+    color: grey;
+}
+
+
+.Compact_Graph2 {
+    width: 132px;
+    position: absolute;
+    top: 6.5%;
+    left: 74%;
+    background: white;
+    font-size: inherit;
+    font-weight: 600;
+    color: grey;
+}
+
+@media (width<=950px)
+{
+    .supplymint{
+        visibility: hidden;
+    }
+
+    .template_2{
+        visibility: hidden;
+    }
+
+  
+}
+
+@media (width<=350px)
+{
+    .bell{
+        visibility: hidden;
+    }
+    .to-do-list{
+        visibility: hidden;
+    }
+ } 
